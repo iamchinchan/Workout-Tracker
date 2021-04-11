@@ -5,7 +5,7 @@ export default class Nvbar extends Component{
   
   render(){
     return (
-      <nav className= "navbar navbar-primary bg-dark navbar-expand-lg">
+      <nav className= "navbar navbar-dark bg-dark navbar-expand-lg">
         
         <Link  className="navbar-brand">Workout Tracker</Link>
         <div className = "collapse navbar-collapse">
